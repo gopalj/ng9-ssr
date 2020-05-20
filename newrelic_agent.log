@@ -1,0 +1,3 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"Gopals-MacBook-Pro.local","pid":21413,"time":"2020-05-20T12:37:22.671Z","msg":"Using New Relic for Node.js. Agent version: 6.7.1; Node version: v12.16.3."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Gopals-MacBook-Pro.local","pid":21413,"time":"2020-05-20T12:37:22.674Z","msg":"Module not enabled in configuration; not starting."}{"v":0,"level":30,"name":"newrelic","hostname":"Gopals-MacBook-Pro.local","pid":21596,"time":"2020-05-20T12:39:17.873Z","msg":"Using New Relic for Node.js. Agent version: 6.7.1; Node version: v12.16.3."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Gopals-MacBook-Pro.local","pid":21596,"time":"2020-05-20T12:39:17.876Z","msg":"Module not enabled in configuration; not starting."}
